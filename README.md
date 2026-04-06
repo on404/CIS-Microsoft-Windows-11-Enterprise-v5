@@ -1,6 +1,6 @@
-# CIS Microsoft Windows 11 Enterprise Benchmark v5.0.0
+# CIS Microsoft Windows 11 Enterprise Benchmark v5.0.1
 
-This repository contains a PowerShell script designed to help system administrators and security professionals remediate Windows 11 systems according to the Center for Internet Security (CIS) benchmarks. The script automates the implementation of various security controls and best practices outlined in the CIS Windows 11 stand-alone v4 guidelines.
+This repository contains a PowerShell script designed to help system administrators and security professionals remediate Windows 11 systems according to the Center for Internet Security (CIS) benchmarks. The script automates the implementation of various security controls and best practices outlined in the CIS Windows 11 Enterprise V5.0.1 guidelines.
 
 Additionally, there is an Excel file included that contains all the keys and settings referenced in the script for easy reference.
 
