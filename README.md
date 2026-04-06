@@ -13,7 +13,7 @@ Additionally, there is an Excel file included that contains all the keys and set
 
 ## Features
 
-- Automates the remediation of security settings based on CIS Windows 11 stand-alone v4 benchmarks.
+- Automates the remediation of security settings based on CIS Windows 11 Enterprise V5 benchmarks.
 - Easy to use and customize for specific organizational needs.
 - Supports both local and remote execution.
 
